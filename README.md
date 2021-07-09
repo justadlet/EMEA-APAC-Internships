@@ -20,3 +20,4 @@ The repo was inspired by the similar one from [Summer 2022 Internships by Pitt C
 | [Palantir](https://jobs.lever.co/palantir/e3ba9fd6-03e9-4c04-a546-955d8cb7cb94) | APAC, Tokyo, Japan | Forward Deployed Software Engineer, Internship |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3015374) | EMEA, London. APAC, Singapore | Software Engineering Internship - Summer 2022. Graduating in 2023 |
 | [Hubspot](https://www.hubspot.com/careers/students/intern-coop) | EMEA, APAC | August: Application opens. October: Applications close. June: Internships begin |
+| [Palantir](https://www.palantir.com/careers/) | EMEA, London | Must be planning on graduating in 2023. This should be your final internship before graduating. |
